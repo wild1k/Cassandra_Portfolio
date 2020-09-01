@@ -5,14 +5,14 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
-import AUBackground from "./utils/AUBackground.png";
+
 
 
 class App extends Component {
   render() {
     return (
       <Router>
-        <Header />
+        <Header/>
         <Switch>
           <Route path="/Home" exact component={Home} />
           <Route path="/Projects" component={Projects}/>

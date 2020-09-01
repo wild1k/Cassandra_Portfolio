@@ -1,9 +1,10 @@
 import React from "react";
 
 
+
 const Contact = () => {
   return (
-    <section>
+     <section> 
       <div className="container">
         <div className="card m-5 p-5">
           <h2 className="cardName" style={{width: 200}}>

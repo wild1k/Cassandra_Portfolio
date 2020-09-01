@@ -1,13 +1,14 @@
 import React from "react";
 import portfolioPic from "../utils/portfoliopic.JPG";
-
+import profileBackGround from '../utils/profileBackGround.jpg';
+import '../components/index.css';
 
 
 const Home = () => {
   return (
-    <div className='mb-5'>
-        <section >
-          <div className="container fluid">
+    <div className='mb-5 headerPic'>
+        <section className=''>
+          <div className="container fluid ">
             <div className="card d-flex">
               <h2>About Me</h2>
               <div>
@@ -47,8 +48,7 @@ const Home = () => {
                       </ul>
                       <br />
                       <p>
-                        {" "}
-                        Full-Stack Web developer: University of Washington{" "}
+                        2020 Full-Stack Web developer: University of Washington{" "}
                         <br /> Bachelor of Science Degree: Missouri State
                         University in 2006 <br /> Associate of Arts Degree:
                         Longview Community College{" "}

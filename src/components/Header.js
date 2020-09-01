@@ -1,11 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
+// import profileBackGround from '../utils/profileBackGround.jpg';
 
 const Header = () => {
   return (
+ 
     <header>
+       
       <div className="jumbotron jumbotron-fluid">
+
         <div className="container">
+                 
           <h1 className="display-4">Cassandra Chamberlain</h1>
 
           <div>
