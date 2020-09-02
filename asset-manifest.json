@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75a4ba1a.chunk.css",
+    "main.js": "/static/js/main.c1d5d75d.chunk.js",
+    "main.js.map": "/static/js/main.c1d5d75d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.180e305e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.180e305e.js.map",
+    "static/js/2.b86efad0.chunk.js": "/static/js/2.b86efad0.chunk.js",
+    "static/js/2.b86efad0.chunk.js.map": "/static/js/2.b86efad0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.80a324ca5ec9a7c1939c3ad985f2ab9b.js": "/precache-manifest.80a324ca5ec9a7c1939c3ad985f2ab9b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.75a4ba1a.chunk.css.map": "/static/css/main.75a4ba1a.chunk.css.map",
+    "static/js/2.b86efad0.chunk.js.LICENSE.txt": "/static/js/2.b86efad0.chunk.js.LICENSE.txt",
+    "static/media/burgerApp.png": "/static/media/burgerApp.69cdbb68.png",
+    "static/media/gatherNow.png": "/static/media/gatherNow.308c3d8c.png",
+    "static/media/passwordGen.png": "/static/media/passwordGen.6019d76a.png",
+    "static/media/portfoliopic.JPG": "/static/media/portfoliopic.7be1ac20.JPG",
+    "static/media/pure2.png": "/static/media/pure2.ed613f72.png",
+    "static/media/quizPic.png": "/static/media/quizPic.c7dba0cb.png",
+    "static/media/wavel.png": "/static/media/wavel.073d8dea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.180e305e.js",
+    "static/js/2.b86efad0.chunk.js",
+    "static/css/main.75a4ba1a.chunk.css",
+    "static/js/main.c1d5d75d.chunk.js"
+  ]
+}
