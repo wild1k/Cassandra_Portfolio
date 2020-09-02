@@ -1,11 +1,11 @@
 import React from "react";
-import wavel from "../utils/wavel.png";
-import quizPic from "../utils/quizPic.png";
-import pure2 from "../utils/pure2.png";
-import passwordGen from "../utils/passwordGen.png";
-import gatherNow from "../utils/gatherNow.png";
-import burgerApp from "../utils/burgerApp.png";
-import { Link } from "react-router-dom";
+import wavel from "../utils/projectsImages/wavel.png";
+import quizPic from "../utils/projectsImages/quizPic.png";
+import pure2 from "../utils/projectsImages/pure2.png";
+import passwordGen from "../utils/projectsImages/passwordGen.png";
+import gatherNow from "../utils/projectsImages/gatherNow.png";
+import burgerApp from "../utils/projectsImages/burgerApp.png";
+
 
 const Projects = () => {
   return (
