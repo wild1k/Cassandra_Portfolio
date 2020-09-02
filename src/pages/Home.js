@@ -8,9 +8,6 @@ const Home = () => {
     <div className='mb-5'>
         <section className=''>
           <div className="container fluid ">
-            
-         
-            
               <div>
                 <div className="container ">
                   <div className="row">
@@ -59,7 +56,6 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-           
           </div>
         </section>
     </div>
