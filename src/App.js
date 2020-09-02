@@ -5,6 +5,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
+import Send from "./pages/Send";
+
 
 
 
@@ -14,9 +16,10 @@ class App extends Component {
       <Router>
         <Header/>
         <Switch>
-          <Route path="/Home" exact component={Home} />
+          <Route path="/" exact component={Home} />
           <Route path="/Projects" component={Projects}/>
           <Route path="/Contact" component={Contact} />
+          <Route path="/Send" component={Send}/>
         </Switch>
         <Footer />
       </Router>

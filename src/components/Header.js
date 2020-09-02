@@ -7,7 +7,7 @@ const Header = () => {
  
     <header>
        
-      <div className="jumbotron jumbotron-fluid">
+      <div className="jumbotron jumbotron-fluid header">
 
         <div className="container">
                  
@@ -25,12 +25,12 @@ const Header = () => {
             </a>
             <a
               className="btn btnColor"
-              href="https://1drv.ms/w/s!AhJEfkE7YCh9k18krxpev1ICKey3?e=siMHVC"
+              href="https://1drv.ms/w/s!AhJEfkE7YCh9k2QqqSzLH8H2TwXX?e=eyfySS"
             >
               <i className="fab fa-file-text" aria-hidden="true"></i>Resume
             </a>
           </div>
-          <nav>
+      
             <ul className="nav justify-content-end">
               <li className="nav-item">
                 <Link to="/Projects">
@@ -38,7 +38,7 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to="/Home">
+                <Link to="/">
                   <li className="nav-link">Home</li>
                 </Link>
               </li>
@@ -48,9 +48,9 @@ const Header = () => {
                 </Link>
               </li>
             </ul>
-          </nav>
+         
+          </div>
         </div>
-      </div>
     </header>
   );
 };

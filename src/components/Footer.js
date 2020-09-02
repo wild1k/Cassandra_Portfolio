@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer page-footer font-small">
       <div className="container">
         <div className="row">
-          <div className="col-lg-12 col-md-6 col-sm-4 py-3">
+          <div className="col-lg-12 col-md-8 col-sm-4 py-3">
             <a
               href="https://www.facebook.com/cassandra.chamberlain.9"
               className="fb-ic"
@@ -25,7 +25,7 @@ const Footer = () => {
               </i>
             </a>
            <hr/>
-            <div class="footer-copyright">
+            <div className="footer-copyright py-3">
               © 2020 Created By:
               <p> Cassandra Chamberlain</p>
             </div>
