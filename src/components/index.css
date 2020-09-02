@@ -1,0 +1,38 @@
+
+.header {
+  background-color: white;
+  background-repeat: no-repeat; 
+  background-size: 100%;
+  color: #a23cac;
+  font-family: 'Metal Mania', cursive;
+}
+
+.contactForm {
+  border: 2px solid;
+  border-radius: 12px;
+  background-color: #17B3E2;
+  color: black;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  
+}
+
+section {
+  background-color: ;
+}
+
+.footer {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    color: #2E5B22;
+    text-align: center;
+    height: auto;
+    padding-bottom: 0px;
+  }
+
